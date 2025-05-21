@@ -1,5 +1,5 @@
 # Introduction
-The source code and models for our paper **Progressive Label Distribution Estimation based on Partial Label Learning for Combating Noisy Labels**
+The source code and models for our paper **Estimating Label Distributions via Partial Labels: A Progressive Approach for Noisy Label Learning**
 # Framework
 ![Our Framework](https://github.com/yiyouG/LPL/blob/main/framework.png)
 # Installation
